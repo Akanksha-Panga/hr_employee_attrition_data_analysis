@@ -44,7 +44,7 @@ The goal is to clean, analyze, and visualize the data to help organizations impr
 
 ## 📂Project Files
 — Dataset → [View Dataset]()
-— Python Anlysis → [View File]()
+— Python Anlysis → [View File](https://github.com/Akanksha-Panga/hr_employee_attrition_data_analysis/blob/main/HR%20_Attrition_Analysis.ipynb)
 — SQL Queries → [View Queries]()
 — Power BI Dashboard → [View Dashboard](https://github.com/Akanksha-Panga/hr_employee_attrition_data_analysis/blob/main/HR%20Attrition%20Powerbi%20dashboard(%20project-2).pdf)
 
