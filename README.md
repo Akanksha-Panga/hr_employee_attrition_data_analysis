@@ -46,7 +46,7 @@ The goal is to clean, analyze, and visualize the data to help organizations impr
 — Dataset → [View Dataset]()
 — Python Anlysis → [View File]()
 — SQL Queries → [View Queries]()
-— Power BI Dashboard → [View Dashboard]()
+— Power BI Dashboard → [View Dashboard](https://github.com/Akanksha-Panga/hr_employee_attrition_data_analysis/blob/main/HR%20Attrition%20Powerbi%20dashboard(%20project-2).pdf)
 
 ## 🚀Future Scope
 — Build predictive models to identify employees at risk of leaving
